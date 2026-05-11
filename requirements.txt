@@ -1,0 +1,12 @@
+streamlit
+mysql-connector-python
+pandas
+newspaper3k
+nltk
+textblob
+beautifulsoup4
+requests
+cloudscraper
+pdfplumber
+fpdf
+google-generativeai
